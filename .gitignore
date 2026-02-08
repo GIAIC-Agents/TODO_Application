@@ -1,0 +1,15 @@
+.env
+BACKEND_SPECS.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv
+venv/
+ENV/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
